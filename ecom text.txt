@@ -1,1 +1,3 @@
 this is test notes in ecommerce local repository
+
+this new text added from remote depository
